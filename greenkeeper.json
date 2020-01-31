@@ -1,0 +1,18 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "SDKV4-Samples/js/DialogPromptBot/package.json",
+        "SDKV4-Samples/js/PromptUsersForInput/package.json",
+        "SDKV4-Samples/js/complexDialogBot/package.json",
+        "SDKV4-Samples/js/stateBot/package.json",
+        "StackOverflow-Bot/StackBot/package.json",
+        "StackOverflow-Bot/StackCode/package.json",
+        "blog-samples/Node/Blog-CustomState-CosmosDB/package.json",
+        "blog-samples/Node/Blog-Qna-Attachments/package.json",
+        "blog-samples/Node/Blog-Redux-Bot/package.json",
+        "docs-samples/V4/JS/contosocafebot-luis-dialogs/package.json"
+      ]
+    }
+  }
+}
