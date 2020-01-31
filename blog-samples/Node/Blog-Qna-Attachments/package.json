@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "botbuilder": "^3.15.0",
+    "botbuilder": "^4.7.1",
     "botbuilder-cognitiveservices": "^1.2.0",
     "https": "^1.0.0",
-    "restify": "^6.4.0"
+    "restify": "^8.5.1"
   }
 }
