@@ -13,20 +13,20 @@
     },
     "dependencies": {
         "@microsoft/recognizers-text-suite": "^1.1.4",
-        "botbuilder": "^4.0.6",
+        "botbuilder": "^4.7.1",
         "botframework-config": "^4.0.6",
-        "dotenv": "^6.0.0",
-        "restify": "^6.3.4"
+        "dotenv": "^8.2.0",
+        "restify": "^8.5.1"
     },
     "devDependencies": {
-        "eslint": "^5.6.0",
-        "eslint-config-standard": "^12.0.0",
+        "eslint": "^6.8.0",
+        "eslint-config-standard": "^14.1.0",
         "eslint-plugin-import": "^2.14.0",
-        "eslint-plugin-node": "^7.0.1",
+        "eslint-plugin-node": "^11.0.0",
         "eslint-plugin-promise": "^4.0.1",
         "eslint-plugin-standard": "^4.0.0",
-        "nodemon": "^1.18.4",
-        "@types/node": "10.10.2",
-        "@types/restify": "7.2.4"
+        "nodemon": "^2.0.2",
+        "@types/node": "^13.5.3",
+        "@types/restify": "8.4.2"
     }
 }
