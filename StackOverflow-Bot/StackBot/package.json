@@ -13,7 +13,7 @@
     "devnull": "0.0.12",
     "lodash": "^4.17.10",
     "request": "^2.87.0",
-    "request-promise": "^4.2.2",
+    "request-promise": "^4.2.6",
     "restify": "^5.2.1"
   },
   "engines": {
