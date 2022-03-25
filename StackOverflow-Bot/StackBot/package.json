@@ -4,7 +4,9 @@
   "description": "A bot that helps you code. Built with Bot Framework and Microsoft Cognitive Services.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "prepare": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "author": "Microsoft Inc.",
   "license": "MIT",
@@ -14,9 +16,11 @@
     "lodash": "^4.17.10",
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
-    "restify": "^5.2.1"
+    "restify": "^5.2.1",
+    "@snyk/protect": "latest"
   },
   "engines": {
     "node": "8.1.4"
-  }
+  },
+  "snyk": true
 }
