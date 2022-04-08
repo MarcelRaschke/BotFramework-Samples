@@ -9,7 +9,7 @@
   "author": "Microsoft Inc.",
   "license": "MIT",
   "dependencies": {
-    "botbuilder": "^3.9.0",
+    "botbuilder": "^4.0.6",
     "devnull": "0.0.12",
     "lodash": "^4.17.10",
     "request": "^2.87.0",
